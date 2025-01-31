@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me 🌟
-I am passionate about **developing solutions** and exploring new **technologies**. My interests span across **software development** and **cloud computing**. 🚀
+I have a strong interest in IT networking, cloud computing, and how data centers work behind the scenes. I’m always curious about the technology that keeps systems running smoothly and enjoy learning more about these fields.
 
 ---
 

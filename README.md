@@ -25,9 +25,10 @@ I am passionate about **developing solutions** and exploring new **technologies*
 ## Projects 🛠
 Here are some of my projects:
 
-### **Web Development**
 - [**UnifiedGoods**](https://github.com/Ethan-Chew/UnifiedGoods): A fictional eCommerce platform allowing users to gain discounts on products by playing games.
 - [**CareLinc**](https://github.com/Ethan-Chew/BED2024Apr_P01_T2): A 'full-stack' Web Application designed to allow patients from less-privileged families to have access to quality medical care at a low cost.
+- [**SPM-City Building**](https://github.com/Jefflyl98/SPM-NgeeAnnCityApp): Build and manage your own city, balancing growth, resources, and challenges to create a thriving metropolis.
+- [**Empiler**](https://github.com/Ethan-Chew/Empiler): A user-friendly web application developed to address OCBC's problem statement by streamlining customer enquiries, enhancing response efficiency, and improving overall customer experience.
 
 
 ---

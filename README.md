@@ -44,6 +44,6 @@ Here are some of my projects:
 
 ## Let's Connect 🤝
 
-- 💼 LinkedIn: [linkedin.com/in/jefferson-low-37a56424b/](https://www.linkedin.com/in/jefferson-low-37a56424b/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/jefferson-low-37a56424b/)
 
 ---

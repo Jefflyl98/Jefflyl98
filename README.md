@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-
 ## About Me 🌟
 I am passionate about **developing solutions** and exploring new **technologies**. My interests span across **software development** and **cloud computing**. 🚀
 
